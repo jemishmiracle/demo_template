@@ -18,11 +18,11 @@ class DialogHelper {
           backgroundColor: Get.theme.dialogBackgroundColor,
           titleStyle: TextStyle(
               color: Get.theme.textTheme.headlineLarge?.color,
-              fontSize: 20.sp
+              fontSize: 18
           ),
           descStyle: TextStyle(
               color: CustomColors.grey,
-              fontSize: 16.sp
+              fontSize: 14
           )
       ),
       title: title,
@@ -75,7 +75,7 @@ class DialogHelper {
                             child: CustomText(
                               text: "Select Type",
                               color: CustomColors.white,
-                              fontSize: 16.sp,
+                              fontSize: 18,
                               fontWeight: FontWeight.w500,
                             ),
                           ),
