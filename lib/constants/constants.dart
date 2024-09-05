@@ -10,6 +10,7 @@ const defaultFontFamily = null;
 List<Locale> supportedLocales = const [
   Locale('en'),
   Locale('gu'),
+  Locale('hi'),
 ];
 
 void printLog(String val){

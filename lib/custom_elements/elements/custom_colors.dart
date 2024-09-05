@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 
 class CustomColors {
 
-  // static const primary = Color(0xFF7839FD);
-  // static const primary1 = Color(0xFFbb9cfe);
-
   static const primary = Color(0xFF7839FD);
   static const primary1 = Color(0xFFe8e3fd);
   static const btnColor = Color(0xFFFFA05C);
@@ -21,7 +18,6 @@ class CustomColors {
   static const pink = Colors.pink;
   static const black = Colors.black;
   static const text = Colors.black45;
-
   static const grey = Colors.grey;
   static const orange = Colors.orangeAccent;
   static const transparent = Colors.transparent;
